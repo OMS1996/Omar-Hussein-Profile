@@ -11,7 +11,11 @@ I am a passionate Software Engineer and Machine Learning Engineer, with an M.S. 
 - 📫 You can reach me at [omarmoh.said@gmail.com](mailto:omarmoh.said@gmail.com) or [LinkedIn](https://www.linkedin.com/in/omar-m-hussein).
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,django,pytorch,fastapi,aws,neo4j)](https://skillicons.dev)
+
+Here are some of the technologies I've worked with:
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,django,pytorch,fastapi,flask,tensorflow,sql,postgres,neo4j,aws,docker,git,github,huggingface)](https://skillicons.dev)
+
 
 ## 🌱 Currently Exploring
 

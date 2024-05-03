@@ -2,8 +2,6 @@
 
 I am a passionate Software Engineer and Machine Learning Engineer, with an M.S. in Data Science from Yeshiva University. I have a robust background in developing cutting-edge AI solutions and managing complex distributed systems. Currently, I am enhancing the capabilities of EtherealAI.io by integrating advanced AI technologies.
 
-![Omar's Stats](https://github-readme-stats.vercel.app/api?username=OMS1996&theme=vue-dark&show_icons=true&hide_border=true&count_private=False)
-
 ## 🚀 About Me
 
 - 🔭 I'm currently working at EtherealAI.io as a AI Software Engineer, focusing on AI and backend development.
@@ -34,6 +32,11 @@ Here are some of the technologies I've worked with:
 - 💼 LinkedIn: [Omar M. Hussein](https://www.linkedin.com/in/omar-m-hussein) You will find my resume there.
 - 📝 Medium: [Read my articles](https://medium.com/@omarmoh.said)
 - 🖥 GitHub: [View my GitHub](https://github.com/OMS1996)
+
+Open Source contribution :
+
+Full disclosure I am working on it XD . but most of my code is on private repos.
+![Omar's Stats](https://github-readme-stats.vercel.app/api?username=OMS1996&theme=vue-dark&show_icons=true&hide_border=true&count_private=False)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 

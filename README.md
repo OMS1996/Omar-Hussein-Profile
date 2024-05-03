@@ -12,7 +12,7 @@ I am a passionate Software Engineer and Machine Learning Engineer, with an M.S. 
 
 Here are some of the technologies I've worked with:
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,django,pytorch,fastapi,flask,postgres,aws,docker,git,github,vscode,notion,lambda,gitlab,huggingface,linux,eclipse,keras,pandas,numpy)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,django,pytorch,fastapi,flask,postgres,aws,docker,git,github,vscode,notion,lambda,gitlab,linux,eclipse,keras,pandas,numpy)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring

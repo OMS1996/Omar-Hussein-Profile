@@ -1,6 +1,6 @@
 # Hi, I'm Omar Hussein! 👋
 
-I am a passionate Software Engineer and Machine Learning Engineer, with an M.S. in Data Science from Yeshiva University. I have a robust background in developing cutting-edge AI solutions and managing complex distributed systems. Currently, I am enhancing the capabilities of EtherealAI.io by integrating advanced AI technologies.
+I am a passionate Software Engineer and Machine Learning Engineer, with an M.S. in Data Science (Data analytics and Visualization). I have a robust background in developing cutting-edge AI solutions and managing complex distributed systems. Currently, I am enhancing the capabilities of EtherealAI.io by integrating advanced AI technologies.
 
 ## 🚀 About Me
 
@@ -42,7 +42,7 @@ These tools are integral to my daily work, enabling efficient data processing, s
 ## 🏆 Achievements
 
 - 🌟 Magna Cum Laude.
-- 🌟 Outstanding Student Award M.S. in Data Science, Yeshiva University.
+- 🌟 Outstanding Student Award M.S. in Data Science (Data analytics and Visualization).
 
 ## 📬 Get in Touch
 

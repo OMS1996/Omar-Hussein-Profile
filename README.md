@@ -14,7 +14,7 @@ I am a passionate Software Engineer and Machine Learning Engineer, with an M.S. 
 
 Here are some of the technologies I've worked with:
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,django,pytorch,fastapi,flask,sql,postgres,neo4j,aws,docker,git,github,huggingface)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,django,pytorch,fastapi,flask,sql,postgres,aws,docker,git,github,huggingface)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring

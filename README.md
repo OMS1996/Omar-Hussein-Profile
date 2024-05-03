@@ -12,7 +12,25 @@ I am a passionate Software Engineer and Machine Learning Engineer, with an M.S. 
 
 Here are some of the technologies I've worked with:
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,django,pytorch,fastapi,flask,postgres,aws,docker,git,github,vscode,notion,lambda,gitlab,linux,eclipse,keras,pandas,numpy)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,django,pytorch,fastapi,flask,postgres,aws,docker,git,gitlab,github,vscode,notion,lambda,eclipse,react,linux)](https://skillicons.dev)
+
+## 🚀 Python Libraries and Frameworks
+
+I also have extensive experience with the following Python libraries and frameworks, crucial for data science, machine learning, and web development:
+
+- **Pandas**: Essential for data manipulation and analysis.
+- **Numpy**: Key for high-performance numerical computing.
+- **Keras**: Powerful for building and training deep learning models.
+- **PyTorch**: Flexible and powerful tool for machine learning and artificial intelligence.
+- **PyTorch Geometric**: Specialized for deep learning on graphs and other irregular structures.
+- **TensorFlow**: Used for numerical computation and machine learning that can scale from single CPU/GPU to clusters.
+- **Beautiful Soup**: Effective for web scraping tasks, making it easy to parse HTML and XML documents.
+- **Django & Flask**: Robust frameworks for building high-quality web applications; Django provides a high level of abstraction, while Flask offers simplicity and flexibility.
+- **FastAPI**: Modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.
+
+and more much.
+
+These tools are integral to my daily work, enabling efficient data processing, statistical analysis, model development, and robust web service creation.
 
 
 ## 🌱 Currently Exploring

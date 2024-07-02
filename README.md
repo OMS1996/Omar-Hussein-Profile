@@ -51,10 +51,6 @@ These tools are integral to my daily work, enabling efficient data processing, s
 - 📝 Medium: [Read my articles](https://medium.com/@omarmoh.said)
 - 🖥 GitHub: [View my GitHub](https://github.com/OMS1996)
 
-Open Source contribution :
-
-Full disclosure I am working on it XD . but most of my code is on private repos.
-![Omar's Stats](https://github-readme-stats.vercel.app/api?username=OMS1996&theme=vue-dark&show_icons=true&hide_border=true&count_private=False)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
